@@ -35,14 +35,14 @@ pkg install pv -y
 pkg install figlet -y
 pkg install python3 -y
 pip install colorama
-git clone https://github.com/jatinkalwar/m-bomber2.O
+git clone https://github.com/umar2111k/Call-and-sms-bomber
 cd m-bomber2.O
 bash bomber.sh
 ```
 ##  Termux Single Line Installation
 
 ```bash
-apt upgrade -y ; apt update -y ; pkg install git -y ; pkg install wget -y ; pkg install pv -y ; pkg install python3 ; pip install colorama ; pkg install figlet -y ; git clone https://GitHub.com/jatinkalwar/m-bomber2.O ; cd m-bomber2.O ; bash bomber.sh
+apt upgrade -y ; apt update -y ; pkg install git -y ; pkg install wget -y ; pkg install pv -y ; pkg install python3 ; pip install colorama ; pkg install figlet -y ; git clone https://github.com/umar2111k/Call-and-sms-bomber ; cd m-bomber2.O ; bash bomber.sh
 ```
 
 ##  Linux Installation
